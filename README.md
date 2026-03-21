@@ -1,1 +1,1 @@
-# CyberSec
+# Network Intrusion Detection Lab (Snort IDS) 
