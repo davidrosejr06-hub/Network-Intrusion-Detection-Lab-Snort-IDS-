@@ -18,7 +18,7 @@ penetration testing using nmap command to test and validate the Snort IDS rules 
 - Network type: internal network.
 - Virtualization: Oracle Virtual Box.
 
-# Step By Step Process
+# Steps:
 
 # 1. Installation of Snort IDS on Ubuntu
 Explanation: My screenshot shows the complete installation of Snort on Ubuntu server. The Snort 
