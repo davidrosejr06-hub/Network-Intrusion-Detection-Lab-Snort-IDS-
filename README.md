@@ -2,17 +2,17 @@
 
 # Objective
 The goal of my Snort IDS setup is to simulate a real world intrusion detection scenario using snort as a defender
-by monitoring network traffic for malacious activity then using Kali Linux and Legion as the attacker to perform 
+by monitoring network traffic for malicious activity then using Kali Linux and Legion as the attacker to perform 
 penetration testing using nmap command to test and validate the Snort IDS rules and configuration.
 
 # Skills learned:
 - Understanding how network security monitoring and incident response works.
-- Understaing of packet analysis of network traffic and how to detect suspicous patterns.
+- Understanding of packet analysis of network traffic and how to detect suspicious patterns.
 - Practical experience setting up and configuring Snort IDS on Ubuntu.
 - Hands-on experience with penetration testing using Kali Linux and Legion.
 
-# Lab setup:
-- Snort: for network intrustion detection and prevention
+# Tools used:
+- Snort: for network intrusion detection and prevention
 - Ubuntu: to install and configure Snort.
 - Kali Linux and Legion: for penetration testing and to simulate a real attack.
 - Network type: internal network.
@@ -37,7 +37,7 @@ configuration file is customized and the libraries and dependencies have been ad
 
 # 3. Penetration testing with Kali Linux and Legion
 Explanation: My Screenshot shows Kali linux using Kali Linux and Legion for penetration testing. The 
-different attack scenarios are used against the network to verify how efficent the IDS's is at dectecting malicious traffic.
+different attack scenarios are used against the network to verify how efficient the IDS is at detecting malicious traffic.
 <img width="564" height="285" alt="image" src="https://github.com/user-attachments/assets/c2722f08-addf-4e30-94db-3ff62acdfe92" />
 <img width="1011" height="723" alt="image" src="https://github.com/user-attachments/assets/e1ad4061-9372-4fde-8bdc-f91dd9181a19" />
 <img width="976" height="550" alt="image" src="https://github.com/user-attachments/assets/06e85aca-b9fe-4d6e-b2b7-5d4d6b0bb327" />
